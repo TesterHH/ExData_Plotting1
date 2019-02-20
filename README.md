@@ -1,3 +1,10 @@
+## Usage:
+
+**Either the "household_power_consumption.txt" data set file
+should be present one directory level above the scripts,
+or comment lines 5-14 in the all plot\*.R scripts,
+and uncomment lines 16 in the all plot\*.R scripts, in order to read a short version of the dataset for selected dates, available in the current repository.**
+
 ## Introduction
 
 This assignment uses data from
